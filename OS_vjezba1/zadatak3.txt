@@ -1,0 +1,26 @@
+Kopirano iz terminala
+laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-VJEZBE$ mkdir vjezba3 
+&& cd vjezba3 && mkdir backup
+laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-VJEZBE/vjezba3$ touch 
+notes.txt
+laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-VJEZBE/vjezba3$ touch 
+todo.txt
+laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-VJEZBE/vjezba3$ touch 
+script.sh
+laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-VJEZBE/vjezba3$ cp not
+es.txt backup && cp todo.txt backup && cp script.sh backup
+laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-VJEZBE/vjezba3$ rm scr
+ipt.sh && ls
+backup  notes.txt  todo.txt
+laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-VJEZBE/vjezba3$ cd bac
+kup && mkdir USER
+laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-VJEZBE/vjezba3/backup$
+ mv notes.txt USER && mv script.sh USER && mv todo.txt USER
+
+ Koristeno
+ mkdir && cd && mkdir
+ touch
+ cp && cp && cp
+ rm && ls
+ cd && mkdir
+ mv
