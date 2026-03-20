@@ -1,0 +1,17 @@
+Kopirano iz terminala
+laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-vjezbe$ mkdir vjezba5 && cd vjezba5
+laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-vjezbe/vjezba5$ touch $RANDOM.num
+laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-vjezbe/vjezba5$ ls
+13847.num
+laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-vjezbe/vjezba5$ cp 138
+47.num backup.num
+laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-vjezbe/vjezba5$ mkdir 
+backup
+laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-vjezbe/vjezba5$ mv bac
+kup.num backup
+
+Koristeno
+touch
+ls
+cp
+mv
