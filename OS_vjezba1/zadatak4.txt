@@ -1,0 +1,17 @@
+Kopirano iz terminala
+
+laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-vjezbe$ mkdir vjezba4 && cd vjezba4 && mkdir subfolder
+laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-vjezbe/vjezba4$ touch $HOSTNAME
+laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-vjezbe/vjezba4$ mv $HO
+STNAME $USER
+laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-vjezbe/vjezba4$ mv $US
+ER subfolder
+laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-vjezbe/vjezba4$ rm /mn
+t/c/Users/laraz/Documents/GitHub/OS-vjezbe/vjezba4/subfolder/$USER
+
+Koristeno
+mkdir && cd && mkdir
+touch
+mv
+mv
+rm 
