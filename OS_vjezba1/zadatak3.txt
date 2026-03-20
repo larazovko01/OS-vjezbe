@@ -13,9 +13,9 @@ laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-VJEZBE/vjezba3$ rm scr
 ipt.sh && ls
 backup  notes.txt  todo.txt
 laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-VJEZBE/vjezba3$ cd bac
-kup && mkdir USER
+kup && mkdir $USER
 laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-VJEZBE/vjezba3/backup$
- mv notes.txt USER && mv script.sh USER && mv todo.txt USER
+ mv notes.txt $USER && mv script.sh $USER && mv todo.txt $USER
 
  Koristeno
  mkdir && cd && mkdir
