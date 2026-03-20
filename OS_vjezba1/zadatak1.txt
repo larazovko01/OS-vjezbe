@@ -1,0 +1,18 @@
+Kopirano iz terminala 
+
+laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-vjezbe$ pwd
+/mnt/c/Users/laraz/Documents/GitHub/OS-vjezbe
+laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-vjezbe$ ls
+OS_vjezba1  README.md
+laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-vjezbe$ mkdir vjezba1
+laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-vjezbe$ cd vjezba1
+laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-vjezbe/vjezba1$ touch readme.md
+laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-vjezbe/vjezba1$ cd ..
+
+Koristeno 
+pwd
+ls
+mkdir
+cd <putanja>
+touch
+cd ..
