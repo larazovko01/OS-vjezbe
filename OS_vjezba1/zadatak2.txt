@@ -1,0 +1,15 @@
+Kopirano iz terminala
+laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-vjezbe/vjezba2$ touch file.txt
+laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-vjezbe/vjezba2$ cp file.txt file_copy.txt
+laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-vjezbe/vjezba2$ ls
+file.txt  file_copy.txt
+laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-vjezbe/vjezba2$ rm file.txt && cd ..
+laraz@LandK:/mnt/c/Users/laraz/Documents/GitHub/OS-vjezbe$ rmdir vjezba2
+rmdir: failed to remove 'vjezba2': Directory not empty
+
+Koristeno
+touch
+cp 
+ls
+rm && cd
+rmdir (ne moze se izbrisati jer direktorij nije prazan)
